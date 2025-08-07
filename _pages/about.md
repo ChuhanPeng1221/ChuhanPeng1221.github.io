@@ -20,8 +20,8 @@ Chuhan Peng is a Ph.D student in Hong Kong University of Science and Technology 
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉🎉  I moved to Hong Kong University of Science and Technology as a PhD student.
-- *2025.08*: &nbsp;🎉🎉 I graduated from ShanghaiTech University.
+- *2025.09*: &nbsp;I moved to Hong Kong University of Science and Technology as a PhD student.
+- *2025.08*: &nbsp;I graduated from ShanghaiTech University.
 
 # 📝 Publications
 
