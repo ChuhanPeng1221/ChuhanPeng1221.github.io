@@ -16,7 +16,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chuhan Peng is a Ph.D student in Hong Kong University of Science and Technology (HKUST) from fall 2025,supervised by Prof. Ping Wang. Previously, he received his B.Eng degree in Electrical Engineering from Zhejiang University in 2022, and received his M.S degree in Electronic Science and Technology from ShanghaiTech University. His current research interests include ultrawide voltage range bidirectional dc–dc converters and microinverters for PV systems.
+Chuhan Peng is a Ph.D student in Hong Kong University of Science and Technology (HKUST) from fall 2025,supervised by Prof. Ping Wang. Previously, he received his B.Eng degree in Electrical Engineering from Zhejiang University in 2022, and received his M.S degree in Electronic Science and Technology from ShanghaiTech University. 
+His current research interests include ultrawide voltage range bidirectional dc–dc converters and microinverters for PV systems.
 
 # 🔥 News
 
