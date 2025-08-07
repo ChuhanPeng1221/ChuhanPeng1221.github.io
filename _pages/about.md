@@ -29,21 +29,8 @@ Chuhan Peng is a Ph.D student in Hong Kong University of Science and Technology 
 - [ISOP Multimode Flyback Based Auxiliary Power Module with Ultra-wide Input Voltage Range](), Qishan Pan, Dongdong Shu, **Chuhan Peng**, Hengzhao Yang, Haoyu Wang, **2023 IEEE Energy Conversion Congress and Exposition (ECCE)**
 - [Current zero-crossing prediction-based critical conduction mode control of totem-pole PFC rectifiers](), Mingde Zhou, **Chuhan Peng**, Junrui Liang, Minfan Fu, Haoyu Wang, **IEEE Transactions on Power Electronics**
 
-# 🎖 Honors and Awards
-
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
 # 📖 Educations
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-# 💬 Invited Talks
-
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - now*, Hong Kong University of Science and Technology
+- *2022.09 - 2025.06*, ShanghaiTech University
+- *2018.09 - 2022.06*, Zhejiang University
