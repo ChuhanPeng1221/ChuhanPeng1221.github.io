@@ -7,13 +7,7 @@
 
 # Site Settings
 title                    : "Chuhan Peng"
-description              : "Chuhan Peng received his B.S. degree in electrical engineering from Zhejiang University, Hangzhou, China, in 2022. He is currently working toward the master’s
-degree in electrical engineering with the
-School of Information Science and Technology,
-ShanghaiTech University, Shanghai, China.
-His current research interests include ultrawide
-voltage range bidirectional dc–dc converters
-and microinverters for PV systems. "
+description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Chuhan Peng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Hong Kong University of Science and Technology"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=mM1u-owAAAAJ&hl=zh-CN&oi=ao"
+  email            : "chh.peng1221@gamil.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
