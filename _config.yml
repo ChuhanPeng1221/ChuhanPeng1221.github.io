@@ -6,8 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Chuhan Peng"
+description              : "Chuhan Peng received his B.S. degree in electrical engineering from Zhejiang University, Hangzhou, China, in 2022. He is currently working toward the master’s
+degree in electrical engineering with the
+School of Information Science and Technology,
+ShanghaiTech University, Shanghai, China.
+His current research interests include ultrawide
+voltage range bidirectional dc–dc converters
+and microinverters for PV systems. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
