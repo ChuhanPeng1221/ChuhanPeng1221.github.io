@@ -26,9 +26,9 @@ His current research interests include ultrawide voltage range bidirectional dc�
 
 # 📝 Publications
 
-- [A ZVS Realization Method for Bidirectional Buck/Boost Converter Based on Current Zero-Crossing Prediction](), **Chuhan Peng**, Mingde Zhou, Qishan Pan, Hengzhao Yang, Haoyu Wang, **2023 IEEE Energy Conversion Congress and Exposition (ECCE)**
-- [ISOP Multimode Flyback Based Auxiliary Power Module with Ultra-wide Input Voltage Range](), Qishan Pan, Dongdong Shu, **Chuhan Peng**, Hengzhao Yang, Haoyu Wang, **2023 IEEE Energy Conversion Congress and Exposition (ECCE)**
-- [Current zero-crossing prediction-based critical conduction mode control of totem-pole PFC rectifiers](), Mingde Zhou, **Chuhan Peng**, Junrui Liang, Minfan Fu, Haoyu Wang, **IEEE Transactions on Power Electronics**
+- [A ZVS Realization Method for Bidirectional Buck/Boost Converter Based on Current Zero-Crossing Prediction](https://ieeexplore.ieee.org/abstract/document/10362286), **Chuhan Peng**, Mingde Zhou, Qishan Pan, Hengzhao Yang, Haoyu Wang, **2023 IEEE Energy Conversion Congress and Exposition (ECCE)**
+- [ISOP Multimode Flyback Based Auxiliary Power Module with Ultra-wide Input Voltage Range](https://ieeexplore.ieee.org/abstract/document/10362926), Qishan Pan, Dongdong Shu, **Chuhan Peng**, Hengzhao Yang, Haoyu Wang, **2023 IEEE Energy Conversion Congress and Exposition (ECCE)**
+- [Current zero-crossing prediction-based critical conduction mode control of totem-pole PFC rectifiers](https://ieeexplore.ieee.org/abstract/document/10077806), Mingde Zhou, **Chuhan Peng**, Junrui Liang, Minfan Fu, Haoyu Wang, **IEEE Transactions on Power Electronics**
 
 # 📖 Educations
 
